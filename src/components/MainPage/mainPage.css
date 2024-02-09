@@ -1,0 +1,37 @@
+.mainPageContainer{
+    margin-left: 0;
+}
+.mainHeader{
+    padding-top: 20px;
+    height: 100px;
+    margin-bottom: 70px;
+}
+.mainText{
+    color: #3E588F;
+}
+.mainProductBox{
+    height: 500px;
+}   
+.mainUserBox{
+    height: 500px;
+}
+.mainTable{
+    background-color: #3E588F;
+    color:#E3E8F8;
+}
+.mainTableHeaderText{
+    color:#3E588F;
+    justify-content: center;
+    display: flex;
+    margin-bottom:20px ;
+}
+.countBox{
+    width: 300px;
+    height: 80px;
+    display: flex;
+    border-radius: 3px;
+}
+.countText{
+    color: #3E588F;
+    font-size: 20px;
+}
